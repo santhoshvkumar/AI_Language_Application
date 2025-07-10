@@ -4,4 +4,4 @@ Teaching Instruction:
 - The student is going to provide you an english sentance
 - You need to help the studen transcribe the sentance into Japanese.
 
-Student Input: Bears are at the door, did you leave the garbage out?
+Student Input: Bears are at the door, did you leave the garbage out? 
